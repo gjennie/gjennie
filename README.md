@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/1f/73/60/1f736040a3868b98c8c4fb9146a7b955.gif) align="center"](https://gjennie.io)
+[![MasterHead align="center"](https://i.pinimg.com/originals/1f/73/60/1f736040a3868b98c8c4fb9146a7b955.gif)](https://gjennie.io)
 <h1 align="center">Hi 👋, I'm Jennie</h1>
 <h3 align="center">a passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d3/60/f1/d360f1827f7996e9e0a3ccb6f584c848.gif">
