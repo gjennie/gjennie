@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jennie</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
-(img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--SE2Ih3L4--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pw8wq6hz0ntwq4p0gxrw.gif")
+<img align="right" alt="Coding" width="400" src="https://giffun.ru/wp-content/uploads/2022/08/cat-typing-20.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gjennie&label=Profile%20views&color=0e75b6&style=flat" alt="gjennie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gjennie" alt="gjennie" /></a> </p>
